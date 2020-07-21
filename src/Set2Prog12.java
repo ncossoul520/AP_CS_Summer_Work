@@ -15,7 +15,6 @@ public class Set2Prog12 {
                 }
             }
             System.out.println();
-
         }
     }
 }
