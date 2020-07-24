@@ -29,7 +29,12 @@ public class RunMe {
 //        Set3Prog2.runA();
 //        Set3Prog2.runB();
 //        Set3Prog2.runC();
-        Set3Prog2.runD();
-
+//        Set3Prog2.runD();
+//        Set3Prog3.runA();
+//        Set3Prog3.runB();
+//        Set3Prog3.runC();
+//        Set3Prog3.runD();
+//        Set3Prog3.runE();
+//        Set3Prog3.runF();
     }
 }
