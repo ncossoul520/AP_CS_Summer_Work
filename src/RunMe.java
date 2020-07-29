@@ -38,7 +38,14 @@ public class RunMe {
 //        Set3Prog3.runF();
 //        Set4Prog1.run();
 //        Set4Prog2.runA();
-        Set4Prog2.runBC();
+//        Set4Prog2.runBC();
+//        Set5Prog0.runA();
+//        Set5Prog0.runB();
+//        Set5Prog1.run();
+//        Set5Prog2.run();
+        Set5Prog3.run();
+
+
 
     }
 }
