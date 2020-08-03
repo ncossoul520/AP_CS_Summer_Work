@@ -50,9 +50,10 @@ public class RunMe {
 //        Set5Prog5.runB();
 //        Set5Prog6.runA();
 //        Set5Prog6.runB();
-        Set5Prog7.run();
-//        Set6Prog1.run();
-//        Set6Prog2.run();
-//        Set6Prog3.run();
+//        Set5Prog7.run();
+//        Set6Prog1.run1();
+        Set6Prog1.run2();
+        Set6Prog2.run();
+        Set6Prog3.run();
     }
 }
