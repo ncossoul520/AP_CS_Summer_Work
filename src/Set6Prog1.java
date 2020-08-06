@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Set6Prog1 {
-    public static void run1() {
+    public static void run() {
         // Create an ArrayList<Point> representing a path.
         // Add 5 points that represents a square (the 5th point is the same as the 1st point
         // Then calculate the length and display it to verify that it worked.
@@ -22,16 +22,5 @@ public class Set6Prog1 {
             length += p1.distanceTo( p2 );
         }
         return length;
-    }
-
-
-    public static void run2() {
-        Path path = new Path();
-        path.addPoint(0, 0);
-        path.addPoint(0, 10);
-        path.addPoint(10, 10);
-        path.addPoint(10, 0);
-        path.addPoint(0, 0);
-        System.out.println("Length of path is: " + path.getLength());
     }
 }
