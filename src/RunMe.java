@@ -60,6 +60,11 @@ public class RunMe {
 //        Set7Prog2.run();
 //        Set7Prog3.run();
 //        Set7Prog4.runAB();
-        Set7Prog5.run();
+//        Set7Prog5.run();
+//        Set7Prog6.run();
+//        Set7Prog7A.run();
+//        Set7Prog7B.run();
+//        Set7Prog8.runA();
+        Set7Prog8.runB();
     }
 }
